@@ -35,7 +35,7 @@ namespace DSaA1A_2425_IntroToDataTypes
             c = b;
             d = c;
             //MERGE ME
-
+            //ok
             a = (byte)b;
             a = (byte)c;
 
